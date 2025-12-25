@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b5cfb77-6e20-4a47-8eb3-635e85de16a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/30_day_toc_python.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise_7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise_8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise_9.py" afterDir="false" />
+    <list default="true" id="6b5cfb77-6e20-4a47-8eb3-635e85de16a5" name="Changes" comment="day 3">
+      <change afterPath="$PROJECT_DIR$/exercise_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +25,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;laylanazz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/laylanazz/30_day_toc_python.git&quot;,
+    &quot;accountId&quot;: &quot;b540cff4-a98d-42da-838f-71ea944b0fa1&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -40,6 +48,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.exercise_10.executor": "Run",
+    "Python.exercise_11.executor": "Run",
+    "Python.exercise_12.executor": "Run",
     "Python.exercise_7.executor": "Run",
     "Python.exercise_8.executor": "Run",
     "Python.exercise_9.executor": "Run",
@@ -63,6 +74,19 @@
       <option name="presentableId" value="Default" />
       <updated>1764787714820</updated>
     </task>
+    <task id="LOCAL-00001" summary="day 3">
+      <option name="closed" value="true" />
+      <created>1765562919384</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1765562919384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="day 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 3" />
   </component>
 </project>
