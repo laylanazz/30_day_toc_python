@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b5cfb77-6e20-4a47-8eb3-635e85de16a5" name="Changes" comment="day 5">
-      <change afterPath="$PROJECT_DIR$/exercise_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise_18.py" afterDir="false" />
+    <list default="true" id="6b5cfb77-6e20-4a47-8eb3-635e85de16a5" name="Changes" comment="day 6">
+      <change afterPath="$PROJECT_DIR$/exercise_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_21.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +57,9 @@
     "Python.exercise_16.executor": "Run",
     "Python.exercise_17.executor": "Run",
     "Python.exercise_18.executor": "Run",
+    "Python.exercise_19.executor": "Run",
+    "Python.exercise_20.executor": "Run",
+    "Python.exercise_21.executor": "Run",
     "Python.exercise_7.executor": "Run",
     "Python.exercise_8.executor": "Run",
     "Python.exercise_9.executor": "Run",
@@ -104,13 +107,22 @@
       <option name="project" value="LOCAL" />
       <updated>1766720253863</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="day 6">
+      <option name="closed" value="true" />
+      <created>1767111483189</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1767111483189</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="day 3" />
     <MESSAGE value="day 4" />
     <MESSAGE value="day 5" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 5" />
+    <MESSAGE value="day 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 6" />
   </component>
 </project>
