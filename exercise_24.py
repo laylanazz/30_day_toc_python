@@ -13,16 +13,16 @@ def main():
 
     a_words = list()
 
-    if word_1.startswith("a") or word_1.startswith("A"):
-        a_words.append(word_1)
-    if word_2.startswith("a") or word_2.startswith("A"):
-        a_words.append(word_2)
-    if word_3.startswith("a") or word_3.startswith("A"):
-        a_words.append(word_3)
-    if word_4.startswith("a") or word_4.startswith("A"):
-        a_words.append(word_4)
-    if word_5.startswith("a") or word_5.startswith("A"):
-        a_words.append(word_5)
+    if words[0].startswith("a") or words[0].startswith("A"):
+        a_words.append(words[0])
+    if words[1].startswith("a") or words[1].startswith("A"):
+        a_words.append(words[1])
+    if words[2].startswith("a") or words[2].startswith("A"):
+        a_words.append(words[2])
+    if words[3].startswith("a") or words[3].startswith("A"):
+        a_words.append(words[3])
+    if words[4].startswith("a") or words[4].startswith("A"):
+        a_words.append(words[4])
 
     print(f"New list: {a_words}")
     return 0
