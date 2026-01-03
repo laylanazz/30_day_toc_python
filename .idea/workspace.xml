@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b5cfb77-6e20-4a47-8eb3-635e85de16a5" name="Changes" comment="day 9">
-      <change afterPath="$PROJECT_DIR$/exercise_25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise_26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise_27.py" afterDir="false" />
+    <list default="true" id="6b5cfb77-6e20-4a47-8eb3-635e85de16a5" name="Changes" comment="day 10">
+      <change afterPath="$PROJECT_DIR$/exercise_28.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise_29.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,6 +65,8 @@
     "Python.exercise_25.executor": "Run",
     "Python.exercise_26.executor": "Run",
     "Python.exercise_27.executor": "Run",
+    "Python.exercise_28.executor": "Run",
+    "Python.exercise_29.executor": "Run",
     "Python.exercise_7.executor": "Run",
     "Python.exercise_8.executor": "Run",
     "Python.exercise_9.executor": "Run",
@@ -153,7 +154,23 @@
       <option name="project" value="LOCAL" />
       <updated>1767362320050</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="day 10">
+      <option name="closed" value="true" />
+      <created>1767365941769</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1767365941769</updated>
+    </task>
+    <task id="LOCAL-00010" summary="day 10">
+      <option name="closed" value="true" />
+      <created>1767365964064</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1767365964064</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,6 +181,7 @@
     <MESSAGE value="day 7" />
     <MESSAGE value="day 8" />
     <MESSAGE value="day 9" />
-    <option name="LAST_COMMIT_MESSAGE" value="day 9" />
+    <MESSAGE value="day 10" />
+    <option name="LAST_COMMIT_MESSAGE" value="day 10" />
   </component>
 </project>
