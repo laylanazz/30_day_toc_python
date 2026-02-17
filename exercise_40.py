@@ -1,0 +1,14 @@
+import sys
+
+
+def main():
+
+    settings = {"volume" : 5}
+    settings["volume"] = 10
+    print(f"Settings : {settings}")
+
+    return 0
+
+
+if __name__ == '__main__':
+    sys.exit(main())
